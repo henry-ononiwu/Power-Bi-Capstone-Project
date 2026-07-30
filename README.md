@@ -2,7 +2,7 @@
 
 ### 🚚 1. Logistics & Fleet Analytics Dashboard (Capstone Project)
 **Tools:** Power BI | DAX | Power Query | Excel
-
+file:///C:/Users/DELL/Desktop/Data%20Analysis/Cap%20Stone%20Project/Cap%20Stone%20Project%20Images/Over%20view%20a.jpg
 An end-to-end business intelligence solution designed to monitor logistics operations, fleet performance, driver productivity, customer profitability, route efficiency, maintenance costs, fuel consumption, and safety metrics.
 
 **Key Features**
