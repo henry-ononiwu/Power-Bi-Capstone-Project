@@ -56,47 +56,41 @@ A performance management dashboard focused on evaluating driver productivity, de
 - Fuel Consumption
 - Driver Experience Analysis
 
-- # 📸 Dashboard Preview
+# 📸 Dashboard Gallery
 
-## Executive Dashboard
+## 🚚 Capstone Project Dashboard
 
-![Executive Dashboard](Images/Capstone Project.png)
-
----
-
-## Driver Performance Dashboard
-
-![Driver Dashboard](Images/Driver%20Dashboard.png)
+![Capstone Project](Images/Capstone%20Project.jpg)
 
 ---
 
-## Fleet Utilization Dashboard
+## 📊 Executive Dashboard
 
-![Fleet Dashboard](Images/Fleet%20Dashboard.png)
-
----
-
-## Customer Analytics Dashboard
-
-![Customer Dashboard](Images/Customer%20Dashboard.png)
+![Executive Dashboard](Images/Capstone%20Project1.jpg)
 
 ---
 
-## Route Profitability Dashboard
+## 👨‍✈️ Driver Performance Dashboard
 
-![Route Dashboard](Images/Route%20Dashboard.png)
-
----
-
-## Maintenance Dashboard
-
-![Maintenance Dashboard](Images/Maintenance%20Dashboard.png)
+![Driver Performance](Images/Capstone%20Project2.jpg)
 
 ---
 
-## Safety Dashboard
+## 🚛 Fleet Utilization Dashboard
 
-![Safety Dashboard](Images/Safety%20Dashboard.png)
+![Fleet Utilization](Images/Capstone%20Project3.jpg)
+
+---
+
+## 👥 Customer Analytics Dashboard
+
+![Customer Analytics](Images/Capstone%20Project4.jpg)
+
+---
+
+## 🛣️ Route Profitability Dashboard
+
+![Route Profitability](Images/Capstone%20Project5.jpg)
 
 **Business Impact**
 - Improved driver accountability
