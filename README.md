@@ -22,49 +22,8 @@ An end-to-end business intelligence solution designed to monitor logistics opera
 - Reduced operational costs through fleet and fuel optimization
 - Supported data-driven decision-making
 
----
 
-### ☕ 2. Coffee Shop Sales Analytics Dashboard
-**Tools:** Power BI | DAX | Excel
-
-An interactive dashboard developed to analyze sales performance across multiple coffee shop locations.
-
-**Key Features**
-- Total Sales & Profit Analysis
-- Revenue Trends
-- Product Performance
-- Store Performance
-- Peak Sales Hours
-- Customer Purchasing Patterns
-
-**Business Impact**
-- Identified top-selling products
-- Improved inventory planning
-- Supported strategic sales decisions
-
----
-
-### 🛒 3. Electronics Sales Dashboard
-**Tools:** Power BI | DAX | Excel
-
-A comprehensive sales dashboard providing insights into revenue, customer behaviour, regional performance, and product profitability.
-
-**Key Features**
-- Sales Overview
-- Product Category Performance
-- Customer Segmentation
-- Regional Sales Analysis
-- Profitability Analysis
-- Sales Trend Analysis
-
-**Business Impact**
-- Improved sales forecasting
-- Identified high-value customers
-- Enhanced product performance monitoring
-
----
-
-### 🚛 4. Fleet & Vehicle Performance Dashboard
+### 🚛 2. Fleet & Vehicle Performance Dashboard
 **Tools:** Power BI | DAX | Power Query
 
 A fleet management dashboard designed to monitor vehicle utilisation, maintenance performance, and operational efficiency.
@@ -84,7 +43,7 @@ A fleet management dashboard designed to monitor vehicle utilisation, maintenanc
 
 ---
 
-### 👨‍✈️ 5. Driver Performance Dashboard
+### 👨‍✈️ 3. Driver Performance Dashboard
 **Tools:** Power BI | DAX | Excel
 
 A performance management dashboard focused on evaluating driver productivity, delivery efficiency, and operational performance.
@@ -101,7 +60,7 @@ A performance management dashboard focused on evaluating driver productivity, de
 
 ## Executive Dashboard
 
-![Executive Dashboard](Images/Executive%20Dashboard.png)
+![Executive Dashboard](Images/Capstone Project.png)
 
 ---
 
