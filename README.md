@@ -97,6 +97,48 @@ A performance management dashboard focused on evaluating driver productivity, de
 - Fuel Consumption
 - Driver Experience Analysis
 
+- # 📸 Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](Images/Executive%20Dashboard.png)
+
+---
+
+## Driver Performance Dashboard
+
+![Driver Dashboard](Images/Driver%20Dashboard.png)
+
+---
+
+## Fleet Utilization Dashboard
+
+![Fleet Dashboard](Images/Fleet%20Dashboard.png)
+
+---
+
+## Customer Analytics Dashboard
+
+![Customer Dashboard](Images/Customer%20Dashboard.png)
+
+---
+
+## Route Profitability Dashboard
+
+![Route Dashboard](Images/Route%20Dashboard.png)
+
+---
+
+## Maintenance Dashboard
+
+![Maintenance Dashboard](Images/Maintenance%20Dashboard.png)
+
+---
+
+## Safety Dashboard
+
+![Safety Dashboard](Images/Safety%20Dashboard.png)
+
 **Business Impact**
 - Improved driver accountability
 - Identified training opportunities
