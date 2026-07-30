@@ -1,220 +1,105 @@
-🚚 Logistics & Fleet Analytics Dashboard
-📌 Project Overview
+## 📂 Featured Projects
 
-This project is an end-to-end Power BI Logistics & Fleet Analytics Dashboard developed to help logistics companies monitor fleet operations, improve driver performance, optimize route profitability, reduce operational costs, and enhance decision-making through interactive business intelligence dashboards.
+### 🚚 1. Logistics & Fleet Analytics Dashboard (Capstone Project)
+**Tools:** Power BI | DAX | Power Query | Excel
 
-The solution transforms operational data into meaningful insights across logistics, transportation, fleet management, maintenance, customer service, and safety.
+An end-to-end business intelligence solution designed to monitor logistics operations, fleet performance, driver productivity, customer profitability, route efficiency, maintenance costs, fuel consumption, and safety metrics.
 
-🎯 Business Objectives
+**Key Features**
+- Executive KPI Dashboard
+- Driver Performance Analysis
+- Fleet Utilization
+- Route Profitability
+- Customer Analytics
+- Fuel Efficiency Analysis
+- Maintenance Dashboard
+- Safety & Incident Dashboard
+- Seasonal Performance Analysis
 
-This dashboard enables management to:
+**Business Impact**
+- Improved operational visibility
+- Identified high-performing drivers and profitable routes
+- Reduced operational costs through fleet and fuel optimization
+- Supported data-driven decision-making
 
-Monitor overall fleet performance
-Track revenue, profit, and operational costs
-Improve driver productivity and on-time delivery
-Optimize route profitability
-Reduce maintenance and fuel expenses
-Increase fleet utilization
-Monitor customer performance
-Improve safety and incident management
-Identify seasonal demand trends
-📊 Executive KPIs
-Total Revenue
-Total Profit
-Cost of Goods Sold (COGS)
-Gross Margin
-Total Loads
-Total Trips
-Active Trucks
-Active Trailers
-Active Drivers
-Average Processing Time
-Average Delivery Time
-On-Time Delivery Rate
-Revenue per Mile
-Revenue per Load
-Revenue per Truck
-Revenue per Trailer
-📈 Dashboard Modules
-🚛 Driver Performance Analysis
+---
 
-KPIs
+### ☕ 2. Coffee Shop Sales Analytics Dashboard
+**Tools:** Power BI | DAX | Excel
 
-Number of Drivers
-Active vs Terminated Drivers
-Driver Experience
-Trips Completed
-Revenue Generated
-Revenue per Mile
-Fuel Consumption
-Average MPG
-On-Time Delivery Rate
-Delay Rate
+An interactive dashboard developed to analyze sales performance across multiple coffee shop locations.
 
-Insights
+**Key Features**
+- Total Sales & Profit Analysis
+- Revenue Trends
+- Product Performance
+- Store Performance
+- Peak Sales Hours
+- Customer Purchasing Patterns
 
-Top-performing drivers
-Drivers with the highest delays
-Revenue by driver
-Fuel consumption by driver
-Driver productivity trends
-👥 Customer Analytics
+**Business Impact**
+- Identified top-selling products
+- Improved inventory planning
+- Supported strategic sales decisions
 
-KPIs
+---
 
-Total Customers
-Active vs Inactive Customers
-Revenue by Customer
-Revenue by Customer Type
-Revenue by Freight Type
-Customer Lifetime Value
+### 🛒 3. Electronics Sales Dashboard
+**Tools:** Power BI | DAX | Excel
 
-Insights
+A comprehensive sales dashboard providing insights into revenue, customer behaviour, regional performance, and product profitability.
 
-Top customers by revenue
-Customer profitability
-Customer retention
-Years registered
-Service level performance
-🚚 Fleet Utilization
+**Key Features**
+- Sales Overview
+- Product Category Performance
+- Customer Segmentation
+- Regional Sales Analysis
+- Profitability Analysis
+- Sales Trend Analysis
 
-KPIs
+**Business Impact**
+- Improved sales forecasting
+- Identified high-value customers
+- Enhanced product performance monitoring
 
-Total Trucks
-Total Trailers
-Active Vehicles
-Vehicles Under Maintenance
-Fleet Utilization Rate
-Revenue per Asset
-Miles per Truck
-Orders Processed per Vehicle
+---
 
-Insights
+### 🚛 4. Fleet & Vehicle Performance Dashboard
+**Tools:** Power BI | DAX | Power Query
 
-Fleet availability
-Vehicle utilization
-Trailer performance
-Revenue by truck
-Revenue by trailer
-🛣 Route Profitability
+A fleet management dashboard designed to monitor vehicle utilisation, maintenance performance, and operational efficiency.
 
-KPIs
+**Key Features**
+- Active vs Inactive Vehicles
+- Vehicle Utilization
+- Revenue per Vehicle
+- Miles Driven
+- Maintenance Tracking
+- Trailer Performance
 
-Revenue by Route
-Cost by Route
-Profit by Route
-Revenue per Mile
-Cost per Mile
+**Business Impact**
+- Improved fleet utilization
+- Reduced vehicle downtime
+- Enhanced maintenance planning
 
-Insights
+---
 
-Most profitable routes
-Least profitable routes
-Route efficiency
-Transit days
-Distance covered
-Lane performance
-⛽ Fuel Efficiency
+### 👨‍✈️ 5. Driver Performance Dashboard
+**Tools:** Power BI | DAX | Excel
 
-KPIs
+A performance management dashboard focused on evaluating driver productivity, delivery efficiency, and operational performance.
 
-Total Fuel Cost
-Total Gallons Purchased
-Average MPG
-Fuel Cost per Mile
-Fuel Cost per Trip
+**Key Features**
+- Driver Performance Scorecards
+- On-Time Delivery Rate
+- Revenue by Driver
+- Trips Completed
+- Fuel Consumption
+- Driver Experience Analysis
 
-Insights
+**Business Impact**
+- Improved driver accountability
+- Identified training opportunities
+- Increased operational efficiency
 
-Fuel consumption by truck
-Fuel consumption by route
-Fuel consumption by driver
-High-cost routes
-Fuel efficiency trends
-🔧 Maintenance Analysis
-
-KPIs
-
-Total Maintenance Activities
-Total Maintenance Cost
-Downtime Hours
-Maintenance Cost per Mile
-
-Insights
-
-Top vehicles serviced
-Maintenance by facility
-Vehicle reliability
-Downtime impact
-Maintenance trends
-🛡 Safety & Incident Analysis
-
-KPIs
-
-Total Incidents
-Preventable Incidents
-Non-Preventable Incidents
-Incident Rate
-Claims Amount
-Cargo Damage Cost
-Vehicle Damage Cost
-
-Insights
-
-Incident trends
-Driver safety performance
-Incident by vehicle
-Incident by route
-At-fault analysis
-📦 Delivery Performance
-
-KPIs
-
-Total Deliveries
-Total Pickups
-On-Time Deliveries
-Late Deliveries
-Average Delivery Time
-Average Processing Time
-
-Insights
-
-Delivery performance trends
-Pickup vs delivery analysis
-Delay analysis
-Monthly operational performance
-📅 Seasonal Analysis
-
-KPIs
-
-Monthly Revenue
-Monthly Profit
-Monthly Load Volume
-Freight Rate Fluctuations
-
-Insights
-
-Peak demand periods
-Seasonal trends
-Revenue seasonality
-Load volume trends
-🛠 Tools & Technologies
-Power BI
-Power Query
-DAX
-SQL
-Microsoft Excel
-Data Modeling
-ETL (Extract, Transform, Load)
-📌 Business Value
-
-This dashboard helps logistics managers and executives:
-
-Improve operational efficiency
-Reduce fuel and maintenance costs
-Increase fleet utilization
-Improve driver productivity
-Monitor customer profitability
-Optimize route planning
-Enhance safety performance
-Support data-driven strategic decisions
+---
